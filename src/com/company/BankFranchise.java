@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class BankFranchise {
 
     public static void main(String[] args) {
-//
+
     Scanner scan = new Scanner(System.in);
     Bank bank1 = new Bank();
     Bank bank2 = new Bank();
